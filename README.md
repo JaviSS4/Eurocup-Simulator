@@ -1,2 +1,3 @@
 # Eurocup-Simulator
-Práctica Javascript Bootcamp
+He intentado usar clases y cosas más complejas, pero mi cerebro me lo pedía así. Al menos funciona...
+Intentaré practicar y repasar las sesiones que tuvimos durante este agosto a ver si me hago a ellas de cara al futuro.
